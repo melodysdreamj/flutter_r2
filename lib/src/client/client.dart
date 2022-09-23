@@ -6,7 +6,7 @@ import 'package:built_value/serializer.dart';
 import 'package:http/http.dart';
 import 'package:xml2json/xml2json.dart';
 
-import '../../flutter_aws_s3_client.dart';
+import '../../flutter_r2.dart';
 import '../model/list_bucket_result.dart';
 import '../model/list_bucket_result_parker.dart';
 

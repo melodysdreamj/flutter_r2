@@ -6,7 +6,7 @@ import 'package:built_collection/built_collection.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 
-import '../../flutter_aws_s3_client.dart';
+import '../../flutter_r2.dart';
 import 'serializers.dart';
 
 part 'list_bucket_result.g.dart';
